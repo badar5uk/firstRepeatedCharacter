@@ -1,4 +1,4 @@
-public class firstRepeatedChar {
+public class FirstRepeatedChar {
 
     public static void main(String[] args) {
 
